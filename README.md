@@ -1,4 +1,4 @@
-# Firefox ESR — Bug Tracking (Gecko/WebRender & Memory-Access)
+# Firefox ESR / Moxfield Crash on Ryzen Core 2
 
 ## Related Issue
 
