@@ -1,4 +1,4 @@
-# Firefox ESR / Moxfield Crash on Ryzen Core 2
+# Firefox ESR / Crash on Ryzen Core 2
 
 ## Related Issue
 
